@@ -1,10 +1,12 @@
 # Matrix Multiplication Algorithms with Python from scratch
 Jaeho Kim kjh3690@unist.ac.kr
-This is an implementation of matrix multiplication algorithm with python. 
+
+This is an implementation of matrix multiplication algorithm with python. The repository contains a report, code, and a jupyter file. All codes are in python  
 
 1. Schoolbook Matrix multiplication  
 1. Naive Divide and Conquer multiplication
 1. Strassen
+1. Strassen Optimized
 
 
 ## Usage
@@ -23,7 +25,8 @@ python strassen_optimized_leaf4.py
 # To compare everything and get time_comparison.csv
 python all.py
 ```
-There is also a Jupyter file to draw graphs
+There is also a Jupyter file to draw graphs.
+[Time_complexity.ipynb](https://github.com/jaeho3690/Matrix_multiplication_python/blob/master/Time_complexity.ipynb)
 
 
 ## Acknowledgement
