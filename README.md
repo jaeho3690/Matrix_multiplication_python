@@ -28,6 +28,9 @@ python all.py
 There is also a Jupyter file to draw graphs.
 [Time_complexity.ipynb](https://github.com/jaeho3690/Matrix_multiplication_python/blob/master/Time_complexity.ipynb)
 
+## Results
+![Time complexity for algorithms](/figures/time_complexity.png)
+![Time complexity for Strassens](/figures/time_complexity_strassen.png)
 
 ## Acknowledgement
 It took me so long to figure out why Strassen takes longer implementation time than standard
