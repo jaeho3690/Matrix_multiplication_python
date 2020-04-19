@@ -25,8 +25,8 @@ python strassen_optimized_leaf4.py
 # To compare everything and get time_comparison.csv
 python all.py
 ```
-There is also a Jupyter file to draw graphs.
-[Time_complexity.ipynb](https://github.com/jaeho3690/Matrix_multiplication_python/blob/master/Time_complexity.ipynb)
+There is also a [Jupyter file](https://github.com/jaeho3690/Matrix_multiplication_python/blob/master/Time_complexity.ipynb) to draw graphs.
+
 
 ## Results
 ![Time complexity for algorithms](/figures/time_complexity.png)
