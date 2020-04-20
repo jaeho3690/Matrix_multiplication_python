@@ -35,7 +35,7 @@ There is also a [Jupyter file](https://github.com/jaeho3690/Matrix_multiplicatio
 
 ## Acknowledgement
 It took me so long to figure out why Strassen takes longer implementation time than standard
-matrix multiplication even though it has a lower algorithm complexity. To answer this in [stackoverflow](https://stackoverflow.com/questions/11495723/why-is-strassen-matrix-multiplication-so-much-slower-than-standard-matrix-multip). 
+matrix multiplication even though it has a lower algorithm complexity. To answer this check [stackoverflow](https://stackoverflow.com/questions/11495723/why-is-strassen-matrix-multiplication-so-much-slower-than-standard-matrix-multip). 
 
 Another article you can check out is [here](https://martin-thoma.com/strassen-algorithm-in-python-java-cpp/)
 
